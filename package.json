@@ -4,6 +4,7 @@
   "description": "--- Provide a `defineConfig` function for `webpack.config.js` file.",
   "main": "src/index.js",
   "module": "src/index.mjs",
+  "types": "src/types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
